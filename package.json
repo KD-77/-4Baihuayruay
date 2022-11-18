@@ -1,8 +1,8 @@
 {
-  "name": "เว็บไซต์ทำนายฝัน1Baihuayruay",
-  "theme": "เว็บไซต์ทำนายฝัน2Baihuayruay",
+  "name": "Baihuayruaytheme1",
+  "theme": "Baihuayruaytheme2",
   "version": "0.1.1",
-  "description": "เว็บไซต์ทำนายฝัน3Baihuayruay",
+  "description": "Baihuayruaytheme3",
   "keywords": [
     "หวย",
     "ทำนายฝัน",
@@ -11,7 +11,7 @@
     "หวยออกอะไร",
     "ฝันเห็นงู"
   ],
-  "repository": "https://github.com/KD-77/Baihuayruay",
+  "repository": "https://github.com/KD-77/Baihuayruaytheme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
